@@ -1,0 +1,23 @@
+{
+    "name": "captaineze/orion",
+    "version": "0.1.0",
+    "description": "Minimalistic PHP framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OrionCore\\": "OrionCore/",
+            "Controllers\\": "controllers"
+        }
+    },
+    "authors": [
+        {
+            "name": "CaptainEze",
+            "email": "ezetheophilus05@gmail.com"
+        }
+    ],
+    "require": {
+        "eftec/bladeone": "^4.13",
+        "composer/composer": "^2.8"
+    }
+}
