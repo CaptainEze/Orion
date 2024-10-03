@@ -1,6 +1,5 @@
 {
     "name": "captaineze/orion",
-    "version": "0.1.0",
     "description": "Minimalistic PHP framework",
     "type": "library",
     "license": "MIT",
